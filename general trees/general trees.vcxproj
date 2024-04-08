@@ -132,8 +132,10 @@
   <ItemGroup>
     <ClInclude Include="assert.h" />
     <ClInclude Include="BList.h" />
+    <ClInclude Include="BNode.h" />
     <ClInclude Include="listADT.h" />
     <ClInclude Include="macros.h" />
+    <ClInclude Include="nodeADT.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

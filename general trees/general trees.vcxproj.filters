@@ -32,5 +32,11 @@
     <ClInclude Include="assert.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="nodeADT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
