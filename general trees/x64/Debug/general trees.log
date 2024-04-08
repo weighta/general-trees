@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ROXTerm\Documents\algor&datastructures\w3\general trees22\general trees\general trees\macros.h(4,1): warning C4005: 'say': macro redefinition
+C:\Users\ROXTerm\Documents\algor&datastructures\w3\general trees22\general trees\general trees\macros.h(3): message : see previous definition of 'say'
+  general trees.vcxproj -> C:\Users\ROXTerm\Documents\algor&datastructures\w3\general trees22\general trees\x64\Debug\general trees.exe
